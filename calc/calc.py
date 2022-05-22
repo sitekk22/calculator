@@ -123,7 +123,7 @@ while run:
         if event.type == MOUSEBUTTONDOWN:
 
             pos = event.pos
-            print(pos)
+            #print(pos)
             
             
             if button0.btn.collidepoint(pos):
